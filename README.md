@@ -1,12 +1,12 @@
 # analise-sociolinguistica-r
 
-# Análise Estatística Sociolinguística: Variabilidade do /a/ Átono
+## Análise Estatística Sociolinguística: Variabilidade do /a/ Átono
 
 Este repositório contém um script avançado em **R** desenvolvido para a análise exploratória, inferencial e multivariada de um corpus sociolinguístico (amostra SP2010), investigando o fenômeno da **nasalização variável do /a/ átono**.
 
 ---
 
-# Nota sobre os Dados (Confidencialidade)
+## Nota sobre os Dados (Confidencialidade)
 
 > **Aviso importante:** Por motivos de privacidade institucional, restrições éticas e restrições de confidencialidade da base de dados original (`a_atono.csv`), **os dados brutos utilizados nesta análise não estão incluídos neste repositório**. 
 
@@ -14,7 +14,7 @@ Este repositório contém um script avançado em **R** desenvolvido para a anál
 
 ---
 
-# Metodologia e Abordagem Estatística
+## Metodologia e Abordagem Estatística
 
 O pipeline analítico implementado no script abrange as principais etapas da estatística aplicada à linguística quantitativa:
 
@@ -41,7 +41,7 @@ O pipeline analítico implementado no script abrange as principais etapas da est
 
 ---
 
-# Tecnologias e Pacotes Utilizados
+## Pacotes Utilizados
 
 O projeto foi inteiramente construído em **R**, fazendo uso dos seguintes pacotes:
 * **Manipulação e Organização:** `tidyverse`
